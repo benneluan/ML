@@ -1,0 +1,9 @@
+python3
+ipython==6.1.0
+Keras==2.1.4
+pandas==0.22.0
+scikit-learn==0.19.1
+spyder==3.2.4
+tensorflow==1.5.0
+Theano==1.0.1+2.gcd195ed28
+
